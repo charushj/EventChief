@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\divya\\OneDrive\\Desktop\\EventChief_\\EventChief1\\contracts\\rsvp.sol": {
+      "lastModificationDate": 1670120618636,
+      "contentHash": "6f6460fb093ae3879d18498cc0b31343",
+      "sourceName": "contracts/rsvp.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "rsvp"
+      ]
+    }
+  }
+}
